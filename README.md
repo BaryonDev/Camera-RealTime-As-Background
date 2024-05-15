@@ -7,4 +7,4 @@ Berikut adalah video demonstrasi dari proyek ini:
 ### Demo Video
 Berikut adalah video demonstrasi dari proyek ini:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZBs2WOfqF_4" frameborder="0" allowfullscreen></iframe>
+<video><iframe width="560" height="315" src="https://www.youtube.com/embed/ZBs2WOfqF_4" frameborder="0" allowfullscreen></iframe></video>
