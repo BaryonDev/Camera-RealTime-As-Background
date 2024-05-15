@@ -4,5 +4,7 @@ Make your website interesting with a background using the real-time user camerað
 ### Demo Video
 Berikut adalah video demonstrasi dari proyek ini:
 
-[![Demo Video](https://img.youtube.com/vi/ZBs2WOfqF_4/0.jpg)](https://youtu.be/ZBs2WOfqF_4)
+### Demo Video
+Berikut adalah video demonstrasi dari proyek ini:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZBs2WOfqF_4" frameborder="0" allowfullscreen></iframe>
