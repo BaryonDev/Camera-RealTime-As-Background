@@ -5,6 +5,4 @@ Make your website interesting with a background using the real-time user camerað
 
 Berikut adalah video demonstrasi dari proyek ini:
 
-<video src="https://youtu.be/ZBs2WOfqF_4" controls width="800" height="450">
-  Browser Anda tidak mendukung tag video.
-</video>
+[![Watch the video](https://youtu.be/ZBs2WOfqF_4
