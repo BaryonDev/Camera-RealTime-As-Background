@@ -6,5 +6,4 @@ Berikut adalah video demonstrasi dari proyek ini:
 
 ### Demo Video
 Berikut adalah video demonstrasi dari proyek ini:
-
-![Demo GIF](tester.gif)
+![Alt Text]([https://url-ke-gif-anda.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpzZWtzcnNqNTdyOXRraXpxMGpwcnZ6NnBnZDJlbnlpajIyanZuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GjDlEfufWSLkcU7KPf/giphy.gif))
