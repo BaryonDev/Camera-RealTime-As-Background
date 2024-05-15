@@ -1,2 +1,2 @@
 # Camera-RealTime-As-Background
-Real time camera background with javascript
+To make your website attractive with a background using the real-time user camera, I suggest using it on specific buttons or objects and not just on one page, okay!
