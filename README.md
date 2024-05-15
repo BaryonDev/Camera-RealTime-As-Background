@@ -7,3 +7,4 @@ Berikut adalah video demonstrasi dari proyek ini:
 ### Demo Video
 Berikut adalah video demonstrasi dari proyek ini:
 
+![Demo GIF](tester.gif)
